@@ -1,0 +1,18 @@
+{
+    "name": "thaas/01_lock",
+    "autoload": {
+        "psr-4": {
+            "Thaas\\01Lock\\": "lib/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thomas Haas",
+            "email": "thaas@ingress.de"
+        }
+    ],
+    "require": {
+        "league/color-extractor": "0.4.0",
+		"spatie/color": "1.5.3"
+    }
+}
